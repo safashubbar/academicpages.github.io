@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Data Structures."
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
----
+type: "Undergraduate course"
 
-This is a description of a teaching experience. You can use markdown like any other post.
+venue: "Kent State University, Computer Science Department"
+date: 2017- Present
+location: "Kent campus, Stark campus"
+
+
+
 
 Heading 1
 ======
