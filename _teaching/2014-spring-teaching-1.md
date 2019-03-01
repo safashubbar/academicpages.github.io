@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "CS I Program/Problem Solving"
 collection: teaching
 type: "Undergraduate course"
 
 venue: "Kent State University, Computer Science Department"
-date: 2017- 2019
+date: 2017- Present
 location: "Kent campus, Stark campus"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+
 
 Heading 1
 ======
