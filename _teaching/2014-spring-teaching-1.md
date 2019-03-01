@@ -1,5 +1,5 @@
 ---
-title: "CS I Program/Problem Solving"
+title: "Program/Problem Solving"
 collection: teaching
 type: "Undergraduate course"
 
